@@ -14,7 +14,7 @@ A paragraph.
 
 =over 11
 
-=back SomeName
+=back BEGIN_BLOCK: SomeName
 
 Another paragraph.
 
